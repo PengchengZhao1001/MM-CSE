@@ -354,8 +354,7 @@ def main():
     parser.add_argument("--wandb_project_name", type=str, default='Baseline')
     parser.add_argument("--wandb_run_name", type=str)
 
-    parser.add_argument("--test_weights", type=str, default="./checkpoint_best.pth",
-                        help="weak train csv file")
+    parser.add_argument("--test_weights", type=str, default="./checkpoint_best.pth")
 
     args = parser.parse_args()
 
