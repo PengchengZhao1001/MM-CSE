@@ -32,11 +32,14 @@ For code/main_avvp.py
   pages={10448-10456}
 }
 
-@article{zhao2024multimodal,
-  title={Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing},
-  author={Zhao, Pengcheng and Zhou, Jinxing and Guo, Dan and Zhao, Yang and Chen, Yanxiang},
-  journal={arXiv preprint arXiv:2412.11248},
-  year={2024}
+@misc{zhao2024multimodalclassawaresemanticenhancement,
+      title={Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing}, 
+      author={Pengcheng Zhao and Jinxing Zhou and Yang Zhao and Dan Guo and Yanxiang Chen},
+      year={2024},
+      eprint={2412.11248},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.11248}, 
 }
 ```
 
