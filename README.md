@@ -19,27 +19,24 @@ For code/main_avvp.py
 ## Citation
 
 ```
-@article{Zhao_Zhou_Zhao_Guo_Chen_2025, 
-  title={Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing},
+@inproceedings{zhao2025multimodal,
+  title={Multimodal class-aware semantic enhancement network for audio-visual video parsing},
   author={Zhao, Pengcheng and Zhou, Jinxing and Zhao, Yang and Guo, Dan and Chen, Yanxiang},
-  volume={39}, 
-  url={https://ojs.aaai.org/index.php/AAAI/article/view/33134}, 
-  DOI={10.1609/aaai.v39i10.33134}, 
-  number={10}, 
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-  year={2025}, 
-  month={Apr.}, 
-  pages={10448-10456}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={10},
+  pages={10448--10456},
+  year={2025}
 }
 
 @misc{zhao2024multimodalclassawaresemanticenhancement,
-      title={Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing}, 
-      author={Pengcheng Zhao and Jinxing Zhou and Yang Zhao and Dan Guo and Yanxiang Chen},
-      year={2024},
-      eprint={2412.11248},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.11248}, 
+  title={Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing}, 
+  author={Pengcheng Zhao and Jinxing Zhou and Yang Zhao and Dan Guo and Yanxiang Chen},
+  year={2024},
+  eprint={2412.11248},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2412.11248}, 
 }
 ```
 
